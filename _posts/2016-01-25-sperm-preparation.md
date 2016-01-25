@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T14:43:13.959Z'
+datePublished: '2016-01-25T14:43:14.049Z'
 dateModified: '2016-01-25T14:43:10.493Z'
 title: Products
 author: []
