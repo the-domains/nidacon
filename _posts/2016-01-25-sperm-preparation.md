@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T13:09:47.169Z'
-dateModified: '2016-01-25T13:09:38.156Z'
+datePublished: '2016-01-25T13:23:44.145Z'
+dateModified: '2016-01-25T13:22:18.200Z'
 title: Products
 author: []
 sourcePath: _posts/2016-01-25-sperm-preparation.md
@@ -31,6 +31,7 @@ _type: Blurb
 **_PureSperm 100_**is a sterile colloidal silica suspension in an isotonic salt solution. It is optimized for the preparation of [density gradients][0] used to separate and purify human sperm from semen for use in Assisted Reproduction Technologies (ART). This system effectively separates normal sperm from lymphocytes, epithelial cells, abnormal, immature and senescent sperm, cell debris, bacteria and seminal fluid.
 
 ## PureSperm 40/80
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8b66c7e-ec0f-4fd7-868d-f86fff0d0b1c.jpg)
 
 **Ready-diluted to save gradient preparation time.**
 
@@ -48,6 +49,7 @@ All the advantages of a [**_PureSperm 100_**][1] gradient, plus ready-diluted to
 **A three-in-one product.**
 
 **_PureSperm Wash_**is a three-in-one product. It is optimised for washing the sperm pellet recovered after[density gradient][2] preparation, for use in [swim-up procedures][3], for extending the sperm prior to Intra Uterine Insemination(IUI), and as a maintenance medium.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d15ed66-e745-441d-9a0c-a1445d81cf6c.png)
 
 [0]: http://www.youtube.com/watch?v=AB6LMp8zlS8&feature=player_detailpage "Video - Preparation of Nidacon PureSperm Gradient"
 [1]: http://nidacon.com/products/puresperm-100/ "PureSperm 100 Information Page"
