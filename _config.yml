@@ -1,0 +1,28 @@
+name: Nidacon
+favicon: null
+layout_spectrum: 0.7117625714745373
+typography_spectrum: 0.10314197046682239
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7688857128378004
+  lightness: 0.6838623725343496
+  saturation: 0.2629725784063339
+  rhythmicContrast: 0.44095283979550004
+purpose: []
