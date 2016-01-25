@@ -4,15 +4,8 @@
         <description><![CDATA[Nidacon]]></description>
         <link>https://thegrid.ai/nidacon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 11:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 11:42:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nidacon/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>HOME</p></article>]]></description>
-            <link>https://thegrid.ai/nidacon/home/index.html</link>
-            <guid isPermaLink="false">d04d2a1b-a3a1-4422-88b9-71f00647e8a2</guid>
-            <pubDate>Mon, 25 Jan 2016 09:50:58 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[About us]]></title>
             <description><![CDATA[<article><h1>About us</h1><p>ABOUT US</p></article>]]></description>
