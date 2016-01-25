@@ -1,6 +1,6 @@
 name: Nidacon
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.24656
 typography_spectrum: 0.56932
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#b2b2b2'
     - '#c36efc'
     - '#ab32fa'
-  brandStrength: 0.8125
+  brandStrength: 0.5625
   lightness: 0.8125
   saturation: 0.625
   rhythmicContrast: 0.75
