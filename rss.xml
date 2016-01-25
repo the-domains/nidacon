@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nidacon]]></title>
         <description><![CDATA[Nidacon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nidacon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 09:29:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 09:30:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nidacon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PureSperm 40/80]]></title>
+            <description><![CDATA[<article><h1>PureSperm 40/80</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc88dd3cb8b8a52487e0e9f3aedb2e29aab0d69d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nidacon/puresperm-4080/index.html</link>
+            <guid isPermaLink="false">197f7197-1cb4-4a74-b5a3-d584c7cc4665</guid>
+            <pubDate>Mon, 25 Jan 2016 09:30:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PureSperm 100]]></title>
             <description><![CDATA[<article><h1>PureSperm 100</h1><p>For the preparation of density gradients</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84a3a3359875dca37c8823f280561dada98a8fa7.jpg"></article>]]></description>
-            <link>undefinedpuresperm-100/index.html</link>
+            <link>https://thegrid.ai/nidacon/puresperm-100/index.html</link>
             <guid isPermaLink="false">5b1be8f0-7d78-4589-a9f4-96f3ab92fefd</guid>
             <pubDate>Mon, 25 Jan 2016 09:29:07 GMT</pubDate>
         </item>
