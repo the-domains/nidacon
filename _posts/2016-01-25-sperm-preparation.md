@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T14:04:25.391Z'
-dateModified: '2016-01-25T14:04:22.742Z'
+datePublished: '2016-01-25T14:11:45.876Z'
+dateModified: '2016-01-25T14:11:40.566Z'
 title: Products
 author: []
 sourcePath: _posts/2016-01-25-sperm-preparation.md
@@ -31,7 +31,7 @@ _type: Blurb
 **_PureSperm 100_**is a sterile colloidal silica suspension in an isotonic salt solution. It is optimized for the preparation of [density gradients][0] used to separate and purify human sperm from semen for use in Assisted Reproduction Technologies (ART). This system effectively separates normal sperm from lymphocytes, epithelial cells, abnormal, immature and senescent sperm, cell debris, bacteria and seminal fluid.
 
 ## PureSperm 40/80
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc94b589-ef49-4e21-b54a-003ff8732048.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce7a20dc0a16e282d08f2def20fc1cf8096708d2.png)
 
 **Ready-diluted to save gradient preparation time.**
 
@@ -44,7 +44,7 @@ All the advantages of a [**_PureSperm 100_**][1] gradient, plus ready-diluted to
 **_PureSperm Buffer_**is designed specifically for two functions; first as a balanced salt solution for diluting [**_PureSperm 100_**][1]to make up two layers of different densities for the gradient, and secondly, to reduce viscosity in the semen sample. The formula of**_PureSperm Buffer_**is optimized for maximum sperm survival  and greatest yield during[density gradient centrifugation][2].
 
 ## PureSperm Wash
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38415017-a033-47dd-8eb9-b104d7e63363.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed3b0c8d-23ad-4c51-a7b5-5bc3db5c062f.png)
 
 **A three-in-one product.**
 
