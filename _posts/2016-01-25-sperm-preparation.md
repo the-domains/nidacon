@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T12:01:03.336Z'
-dateModified: '2016-01-25T12:00:22.639Z'
+datePublished: '2016-01-25T12:03:36.630Z'
+dateModified: '2016-01-25T12:03:33.953Z'
 title: Sperm Preparation
 author: []
 sourcePath: _posts/2016-01-25-sperm-preparation.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: sperm-preparation/index.html
-_type: Article
+_type: WebPage
 
 ---
 Products
