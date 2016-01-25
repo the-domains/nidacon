@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T13:26:16.669Z'
-dateModified: '2016-01-25T13:26:13.761Z'
+datePublished: '2016-01-25T13:29:29.071Z'
+dateModified: '2016-01-25T13:29:26.322Z'
 title: Products
 author: []
 sourcePath: _posts/2016-01-25-sperm-preparation.md
@@ -44,12 +44,13 @@ All the advantages of a [**_PureSperm 100_**][1] gradient, plus ready-diluted to
 **_PureSperm Buffer_**is designed specifically for two functions; first as a balanced salt solution for diluting [**_PureSperm 100_**][1]to make up two layers of different densities for the gradient, and secondly, to reduce viscosity in the semen sample. The formula of**_PureSperm Buffer_**is optimized for maximum sperm survival  and greatest yield during[density gradient centrifugation][2].
 
 ## PureSperm Wash
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50ecd63a-610e-46b6-ae20-f0212350e028.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/60d6520be1f3c9c6e6413d1bff679fbc8f118dd5.jpg)
 
 **A three-in-one product.**
 
 **_PureSperm Wash_**is a three-in-one product. It is optimised for washing the sperm pellet recovered after[density gradient][2] preparation, for use in [swim-up procedures][3], for extending the sperm prior to Intra Uterine Insemination(IUI), and as a maintenance medium.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/75cac5d9dc1b142dfd3a0006d1a969e432205412.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/334817a8-08ef-46a2-877f-ea51afea6936.png)
 
 [0]: http://www.youtube.com/watch?v=AB6LMp8zlS8&feature=player_detailpage "Video - Preparation of Nidacon PureSperm Gradient"
 [1]: http://nidacon.com/products/puresperm-100/ "PureSperm 100 Information Page"
