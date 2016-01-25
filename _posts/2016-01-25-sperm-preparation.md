@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T11:56:24.857Z'
-dateModified: '2016-01-25T11:55:41.032Z'
+datePublished: '2016-01-25T12:01:03.220Z'
+dateModified: '2016-01-25T12:00:22.639Z'
 title: Sperm Preparation
 author: []
+sourcePath: _posts/2016-01-25-sperm-preparation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-25-sperm-preparation.md
-published: true
 url: sperm-preparation/index.html
 _type: Article
 
