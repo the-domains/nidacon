@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T14:17:50.671Z'
-dateModified: '2016-01-25T14:17:47.604Z'
+datePublished: '2016-01-25T14:23:19.329Z'
+dateModified: '2016-01-25T14:23:16.133Z'
 title: Products
 author: []
 sourcePath: _posts/2016-01-25-sperm-preparation.md
@@ -31,7 +31,7 @@ _type: Blurb
 **_PureSperm 100_**is a sterile colloidal silica suspension in an isotonic salt solution. It is optimized for the preparation of [density gradients][0] used to separate and purify human sperm from semen for use in Assisted Reproduction Technologies (ART). This system effectively separates normal sperm from lymphocytes, epithelial cells, abnormal, immature and senescent sperm, cell debris, bacteria and seminal fluid.
 
 ## PureSperm 40/80
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/548f20ea-2b23-4a30-bf81-de4a295746e3.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/232b97ed-2a13-4804-8de3-db21b8bd64ac.png)
 
 **Ready-diluted to save gradient preparation time.**
 
