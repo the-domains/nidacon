@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T13:23:44.312Z'
-dateModified: '2016-01-25T13:22:18.200Z'
+datePublished: '2016-01-25T13:26:16.658Z'
+dateModified: '2016-01-25T13:26:13.761Z'
 title: Products
 author: []
 sourcePath: _posts/2016-01-25-sperm-preparation.md
@@ -49,7 +49,7 @@ All the advantages of a [**_PureSperm 100_**][1] gradient, plus ready-diluted to
 **A three-in-one product.**
 
 **_PureSperm Wash_**is a three-in-one product. It is optimised for washing the sperm pellet recovered after[density gradient][2] preparation, for use in [swim-up procedures][3], for extending the sperm prior to Intra Uterine Insemination(IUI), and as a maintenance medium.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d15ed66-e745-441d-9a0c-a1445d81cf6c.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/75cac5d9dc1b142dfd3a0006d1a969e432205412.png)
 
 [0]: http://www.youtube.com/watch?v=AB6LMp8zlS8&feature=player_detailpage "Video - Preparation of Nidacon PureSperm Gradient"
 [1]: http://nidacon.com/products/puresperm-100/ "PureSperm 100 Information Page"
