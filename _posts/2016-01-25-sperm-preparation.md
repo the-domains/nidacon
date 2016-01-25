@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T12:03:36.916Z'
-dateModified: '2016-01-25T12:03:33.953Z'
-title: Sperm Preparation
+datePublished: '2016-01-25T12:18:56.861Z'
+dateModified: '2016-01-25T12:18:52.528Z'
+title: Products
 author: []
 sourcePath: _posts/2016-01-25-sperm-preparation.md
 published: true
@@ -22,9 +22,9 @@ url: sperm-preparation/index.html
 _type: WebPage
 
 ---
-Products
+**Sperm Preparation**
 
-# Sperm Preparation
+# Products
 
 ## PureSperm 100
 
