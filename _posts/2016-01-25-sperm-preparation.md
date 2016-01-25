@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T12:56:39.942Z'
-dateModified: '2016-01-25T12:56:32.691Z'
+datePublished: '2016-01-25T13:09:47.143Z'
+dateModified: '2016-01-25T13:09:38.156Z'
 title: Products
 author: []
 sourcePath: _posts/2016-01-25-sperm-preparation.md
@@ -23,7 +23,6 @@ _type: Blurb
 
 ---
 # Products
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ee95b91-741a-4968-bb75-511d978189be.gif)
 
 ## PureSperm 100
 
@@ -44,6 +43,7 @@ All the advantages of a [**_PureSperm 100_**][1] gradient, plus ready-diluted to
 **_PureSperm Buffer_**is designed specifically for two functions; first as a balanced salt solution for diluting [**_PureSperm 100_**][1]to make up two layers of different densities for the gradient, and secondly, to reduce viscosity in the semen sample. The formula of**_PureSperm Buffer_**is optimized for maximum sperm survival  and greatest yield during[density gradient centrifugation][2].
 
 ## PureSperm Wash
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50ecd63a-610e-46b6-ae20-f0212350e028.jpg)
 
 **A three-in-one product.**
 
