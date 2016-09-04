@@ -5,17 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: For the preparation of density gradients
-datePublished: '2016-09-01T11:32:14.818Z'
-dateModified: '2016-09-01T11:32:13.428Z'
+datePublished: '2016-09-01T11:41:26.008Z'
+dateModified: '2016-09-01T11:41:25.551Z'
 title: Products
 author: []
 sourcePath: _posts/2016-01-25-sperm-preparation.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 via: {}
 starred: false
 url: sperm-preparation/index.html
