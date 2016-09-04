@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-10T12:55:20.237Z'
-dateModified: '2016-02-10T12:54:30.802Z'
+description: For the preparation of density gradients
+datePublished: '2016-09-01T11:32:14.818Z'
+dateModified: '2016-09-01T11:32:13.428Z'
 title: Products
 author: []
 sourcePath: _posts/2016-01-25-sperm-preparation.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: sperm-preparation/index.html
 _type: WebPage
 
