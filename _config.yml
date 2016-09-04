@@ -1,19 +1,4 @@
-name: Nidacon
-favicon: null
-layout_spectrum: 0.26031
 typography_spectrum: 0.56932
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,23 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.26031
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Nidacon
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Products
+    id: 51f2e885-bfa0-442a-94c0-61e92160bb75
+    type: content
+favicon: null
 purpose: []
